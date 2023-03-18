@@ -3,6 +3,7 @@ Collection of Virus tools &amp; Softwares
 
 # It's recommended to learn how to use these scripts safely and securely using the pyXtools app.
 
+If you liked the scripts, support me on Patreon
 # Link:
 https://play.google.com/store/apps/details?id=com.pythonxtools
 
