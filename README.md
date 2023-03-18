@@ -1,7 +1,7 @@
 # TOOLS & SCRIPTS
 Collection of Virus tools &amp; Softwares
 
-# Its recommended to learn how to use these scripts safely and securely using pyXtools app.
+# It's recommended to learn how to use these scripts safely and securely using the pyXtools app.
 
 # Link:
 https://play.google.com/store/apps/details?id=com.pythonxtools
